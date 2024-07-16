@@ -1,0 +1,2 @@
+tesserac_data = "/usr/share/tesseract-ocr/4.00/tessdata/"
+libretranslate_url = "http://localhost:5000/"
